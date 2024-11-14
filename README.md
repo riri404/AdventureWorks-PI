@@ -3,7 +3,7 @@ A business intelligence dashboard for the fictional AdventureWorks bike manufact
 
 # AdventureWorks Dashboard
 
-![Dashboard Gif](https://github.com/riri404/AdventureWorks-PI/blob/main/Power%20Bi%20demonstration.gif)
+![Dashboard Gif](https://github.com/riri404/AdventureWorks-PI/blob/main/Power%20BI%20Dashboard.gif)
 
 
 ## Introduction
@@ -91,16 +91,6 @@ The **Customer Detail View** allows users to analyze customer behavior at both t
 - **Return Behavior**: Highlights customers with higher-than-average return rates, potentially flagging issues with product satisfaction.
 
 ---
-
-## Custom Additions
-
-To enhance the user experience and provide deeper insights, several custom features were added to the dashboard:
-- **Custom Tooltips**: Interactive tooltips that provide on-demand, context-sensitive metrics when hovering over specific data points.
-- **Popup Filter Pane**: A dynamic filter pane that allows users to quickly filter data by year or geographic location without disrupting the dashboard’s flow.
-- **Sidebar Navigation**: Streamlined sidebar navigation that ensures users can easily switch between views, improving overall usability.
-
----
-
 
 
 
